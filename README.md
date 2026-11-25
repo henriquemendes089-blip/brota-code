@@ -4,7 +4,7 @@ Endereços fixos da Brota Web para QR codes impressos. O QR guarda só o endere�
 
 | Endereço | Onde está | Leva para |
 |---|---|---|
-| `code.brotaweb.com/panfleto` | `panfleto/index.html` | WhatsApp da Brota (API Brota Web) com "Oi! Peguei o panfleto da Brota Web" |
+| `code.brotaweb.com/panfleto` | `panfleto/index.html` | WhatsApp da Brota (API Brota Web) com "Oi! Vi o panfleto da Brota Web e quero ver na prática como a IA pode fazer meu negócio crescer." |
 | `code.brotaweb.com` (e qualquer outro) | `index.html` e `404.html` | brotaweb.com |
 
 ## Trocar o destino
